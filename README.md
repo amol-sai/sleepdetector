@@ -31,7 +31,8 @@ http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf  (Tereza Soukupova
 How to run : 
 
 Once everything is downloaded  just run python file, i am using argument parser and this is how you this works 
-On Command line: 
+On Command line:  (supporting files can be found @ Github)
+
 python .\Sleep_drowsiness_Detector.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
 --shape-predictor : This is the path to dlib’s pre-trained facial landmark detector
 -- alarm   path to an input audio file to be used as an alarm, instead of alarm.wav any wav/mp3 file can be used 
