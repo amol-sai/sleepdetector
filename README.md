@@ -2,7 +2,7 @@ Sleep Detection:
 
 With Covid -19 and complete lockdown other then munching heavily on food , other important thing I am doing is sleeping bit more then I normally do , So as part of weekend project I decided to create Sleep Alert system (well I am using it for my son though 😊 ) 
 
-How long a given person’s eyes have been closed for. If their eyes have been closed for a certain amount of time, we’ll assume that they are starting to doze off and we will play an alarm to wake them up and grab their attention.
+It detects how long a given person’s eyes have been closed for. If their eyes have been closed for a certain amount of time, we’ll assume that they are starting to doze off and we will play an alarm to wake them up and grab their attention.
 
 This is high level approach: 
 1)	Using Dlib if face is found, we apply facial landmark detection 
